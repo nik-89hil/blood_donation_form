@@ -1,0 +1,84 @@
+*{
+    margin-top: 10px;
+    margin-left: 6px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+.container{
+    background-color: rgb(196, 196, 243);
+    margin:16px 60px;
+    height: 10%;
+    width: 60%;
+    float: left;
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+    font-weight:500;
+    
+}
+
+.upperText{
+    color: darkgreen;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-decoration: underline;
+
+}
+
+input{
+    width: 50% ;
+    height: 30px;
+    border: 1px solid blue;
+    padding-left: 2px;
+}
+
+select{
+    width: 50% ;
+    height: 30px;
+    border: 1px solid blue;
+}
+
+.btn{
+    width: 80px;
+    text-align: center;
+    padding: 0px;
+    height: 40px;
+    font-weight: 500;
+    margin-left: 6px;
+}
+
+#userExteraDetail{
+    color: blue;
+    padding: 15px;
+}
+#useraddress{
+    color: blue;
+    padding: 15px;
+}
+.upperText{
+    margin-top: 10px;
+}
+
+#yes,
+#no{
+    width: 20px;
+    height: 20px;
+    color: green;
+}
+
+.animtioncontainer > img{
+    height:20rem ;
+    width: 20rem ;
+    position: fixed;
+    margin-top: 40px;
+}
+
+
+
+
